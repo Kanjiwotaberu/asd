@@ -184,7 +184,7 @@ const mockForumTopics: ForumTopic[] = [
     replies: [
       {
         id: '1',
-        content: '
+        content: 'Tôi nghĩ AI sẽ giúp cá nhân hóa việc học tập và làm cho giáo dục trở nên hiệu quả hơn. Tuy nhiên, chúng ta cũng cần cân nhắc về tính tương tác con người.',
         author: '2',
         authorName: 'TechWizard',
         createdAt: '2024-01-18T10:30:00Z',
