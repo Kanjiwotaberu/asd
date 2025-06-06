@@ -39,9 +39,9 @@ const AppRouter: React.FC = () => {
   };
 
   return (
-    <div className="flex min-h-screen bg-slate-900">
+    <div className="min-h-screen bg-slate-900 relative">
       <Sidebar />
-      <main className="flex-1">
+      <main className="w-full">
         {renderPage()}
       </main>
     </div>
